@@ -1,0 +1,76 @@
+* {
+    margin: auto;
+    box-sizing: border-box;
+}
+
+main {
+    width: 50%;
+    display: flex;
+    border-radius: 15px;
+}
+
+.cars {
+    width: 250px;
+    margin-top: 150px;
+
+}
+
+p {
+    font-family: "Lexend Deca";
+    font-size: 12px;
+    height: 100px;
+    line-height: 1.6;
+}
+
+.sed {
+    background-color: hsl(31, 77%, 52%);
+    padding: 55px 32px;
+    margin-bottom: 100px;
+    color: white;
+
+}
+
+.suv {
+    background-color: hsl(184, 100%, 22%);
+    padding: 55px 32px;
+    color: white;
+
+}
+
+.lux {
+    background-color: hsl(179, 100%, 13%);
+    padding: 55px 32px;
+    color: white;
+
+
+}
+
+button {
+    margin-top: 70px;
+    width: 120px;
+    padding: 10px;
+    border-radius: 20px;
+    border: none;
+    background-color: white;
+    font-family: "Lexend Deca";
+    font-weight: bold;
+
+}
+
+h2 {
+    font-family: "big shoulders display";
+    margin: 30px 0;
+}
+
+#sed-button {
+    color: hsl(31, 77%, 52%);
+
+}
+
+#suv-button {
+    color: hsl(184, 100%, 22%);
+}
+
+#lux-button {
+    color: hsl(179, 100%, 13%);
+}
